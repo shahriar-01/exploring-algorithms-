@@ -1,5 +1,6 @@
-# Job Application Shortlisting Prediction
+# Exploring Algorithms 
 
+Job Application Shortlisting Prediction
 A machine learning classification project that predicts whether a job applicant will be Shortlisted or Not Shortlisted based on their CGPA, experience, skills, projects, and interview performance.
 
 ## Overview
